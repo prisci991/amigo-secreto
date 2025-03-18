@@ -9,7 +9,7 @@
 
 **Amigo Secreto** es una aplicación web simple e interactiva diseñada para facilitar la organización de intercambios de regalos. Con una interfaz intuitiva y atractiva, permite a los usuarios ingresar nombres de participantes y realizar sorteos de manera aleatoria y divertida.
 
-![Aplicación](https://via.placeholder.com/800x400?text=Amigo+Secreto+App)
+[Aplicación](https://prisci991.github.io/amigo-secreto/)
 
 ## ✨ Características
 
