@@ -19,7 +19,6 @@
   - Límite de caracteres (máximo 20)
   - Prevención de entradas vacías
   - Al menos dos participantes
-  - Los nombres no pueden ser iguales
 - **Organización visual optimizada**:
   - Lista de participantes en panel lateral con scroll
   - Botones de acción claramente ubicados
