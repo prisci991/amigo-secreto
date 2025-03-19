@@ -166,7 +166,7 @@ function mostrarSiguienteResultado() {
     
     // Si ya se mostraron todos los resultados, reiniciar
     if (indiceResultadoActual >= asignaciones.length) {
-        alert('Ya se han mostrado todos los amigos secretos. Presione "Nuevo Sorteo" para realizar otro sorteo con los mismos nombres.');
+        alert('Ya se han mostrado todos los amigos secretos. Presione "Reiniciar" para hacer un nuevo sorteo o "Sortear de nuevo" para realizar otro sorteo con los mismos nombres.');
         return;
     }
     
